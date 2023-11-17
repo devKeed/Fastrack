@@ -1,5 +1,11 @@
 :root {
+}
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: roboto;
 }
 
 a {
@@ -7,24 +13,16 @@ a {
 }
 
 a:hover {
-
 }
 
 body {
-
 }
 
 h1 {
-
 }
 
 button {
-
 }
 
 button:hover {
-
 }
-
-
-
